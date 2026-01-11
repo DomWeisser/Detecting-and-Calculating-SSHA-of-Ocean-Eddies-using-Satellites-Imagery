@@ -1,5 +1,10 @@
 # Detecting and Calculating SSHA of Ocean Eddies Using Satellite Imagery
 
+<p align="center">
+  <img src="Figures/eddy_intersection.png" width="45%" />
+  <img src="Figures/GPSat_interpolation.png" width="45%" /> 
+</p>
+
 # Project Description
 This project shows how to leverage Sentinel-3 altimetry data to detect ocean eddies in the Arctic. The detection is achieved by calculating Sea Surface Height Anomalies (SSHA) and 
 applying optimal interpolation via GPSat to resolve the target eddy structure.
